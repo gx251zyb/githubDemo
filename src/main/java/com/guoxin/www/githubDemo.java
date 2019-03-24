@@ -6,6 +6,7 @@ public class githubDemo {
 		System.out.println("eclipse---------------1------------------");
 		System.out.println("111111111111111111111111111111111111111111");
 		System.out.println("idea----------------------------------ct");
+		System.out.println("eclipse---------------2��ͻ------------------");
 	}
 
 }
